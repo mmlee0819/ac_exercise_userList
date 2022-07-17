@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.fa-person-walking-luggage,
+.nav-link,
+.nav-item {
+  color: #f5f5f5;
+  margin-left: 20px;
+}
+
+.card-body {
+  padding: 0px;
+}
+
+.page-link,
+.show-user-modal {
+  color: #333333;
+  cursor: pointer;
+}
+
+.card-footer {
+  background-color: transparent;
+  padding: 0px;
+}
+
+.btn-outline-light {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  border-color: transparent;
+  border-radius: 15px;
+}
+
+/* Darker background on mouse-over */
+/* .button: active {
+  color: #333333;
+  outline-style: none;
+} */
+
+form {
+  margin: auto, 10px;
+}
